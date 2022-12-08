@@ -3,7 +3,7 @@ VALUES
   ('HR'),
   ('Tech'),
   ('Marketing'),
-  ('Finance');
+  ('Finance'),
   ('Sales'),
   ('Engineering'),
   ('Legal');
@@ -21,13 +21,14 @@ VALUES
   ('Salesperson', 130000, 5),
   ('Engineer', 150000, 6),
   ('Accountant', 160000, 7),
-  ('Sales Lead', 160000, 5);
+  ('Sales Lead', 160000, 5),
+  ('CEO', 400000, 5);
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES
   ('Ronald', 'Firbank', 1, 1),
   ('Virginia', 'Woolf', 2, 2),
   ('Unica', 'Zurn', 3, 1),
-  ('Octavia', 'Butler', 4, 3);
+  ('Octavia', 'Butler', 4, 3),
   ('John', 'Doe', 5, 1),
   ('Tom', 'Allen', 6, 3);
