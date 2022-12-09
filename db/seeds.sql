@@ -13,10 +13,6 @@ VALUES
   ('Recruiter ', 2000, 1),
   ('Marketer', 3000, 2);
   ('Software Engineer', 4000, 3),
-  ('CEO', 5000, 23);
-  ('Recruiter ', 20000, 1),
-  ('Marketer', 30000, 3),
-  ('Software Engineer', 40000, 2),
   ('Attorney', 200000, 7),
   ('Salesperson', 130000, 5),
   ('Engineer', 150000, 6),
