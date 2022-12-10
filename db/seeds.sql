@@ -11,7 +11,7 @@ VALUES
 INSERT INTO role (title, salary, department_id)
 VALUES
   ('Recruiter ', 2000, 1),
-  ('Marketer', 3000, 2);
+  ('Marketer', 3000, 2),
   ('Software Engineer', 4000, 3),
   ('Attorney', 200000, 7),
   ('Salesperson', 130000, 5),
